@@ -1,0 +1,2 @@
+﻿  Person.cpp
+c:\users\anasa\source\repos\cs474hw1\cs474hw1\person.cpp(12): error C2857: '#include' statement specified with the /Ycpch.h command-line option was not found in the source file
